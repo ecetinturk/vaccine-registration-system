@@ -21,10 +21,10 @@ struct VaccineSystem
 	string              strMemberID;
 	string              strMemberName;
 	string              strMemberSurname;
-	unsigned int		    intMemberAge;
+	unsigned int	    intMemberAge;
 	string              strMemberCity;
-	unsigned int		    intVaccineCount;
-	string				      strVaccineName;
+	unsigned int        intVaccineCount;
+	string              strVaccineName;
 }Patient;
 
 struct VaccineDate
