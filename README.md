@@ -29,4 +29,4 @@ A minimalist desktop application where new patients and vaccines can be register
 
 
 ## DATABASE RECORD
-![](https://github.com/ecetinturk/vaccine-registration-system/blob/main/sampleImages/2.JPG?raw=true)
+![](https://github.com/ecetinturk/vaccine-registration-system/blob/main/sampleImages/7.JPG?raw=true)
